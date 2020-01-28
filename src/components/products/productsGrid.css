@@ -1,0 +1,14 @@
+.card-img-right {
+    padding: 15px;
+    max-height: 250px;
+    max-width: 200px;
+}
+
+.card-text {
+    height: 150px;
+    max-height: 150px;
+}
+
+.nav-cart-total {
+    margin-right: 10px
+}

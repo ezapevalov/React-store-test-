@@ -1,0 +1,5 @@
+npm init -y
+npm i react react-dom
+npm i webpack webpack-cli webpack-dev-server -D
+npm i babel-loader @babel/core @babel/preset-env -D
+npm i @babel/plugin-transform-react-jsx -D
